@@ -1,3 +1,3 @@
 ---
-title: GitHub Actions Tutorial: itsjustjer/skills-github-pages.github.io
+title: GitHub Actions Tutorial - skills-github-pages
 ---
